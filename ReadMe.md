@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Fulstack |<br>Python, SQL<br>Em busca de crescimento pessoal e proficional.
+Desenvolvedor |<br>Python, SQL<br>Em busca de crescimento pessoal e proficional.
 
 
 ## 🌐 Socials:

@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=Marco&slugs=python,html5,css3,javascript,openjdk,docker,postgresql,sqlite,django,fastapi,git" />
+  <img src="https://raw.githubusercontent.com/MarcoCS2007/MarcoCS2007/main/skills.svg" />
 </p>
 
 ---
@@ -45,13 +45,6 @@
 
 ---
 
-### 🎯 Troféus (opcional, bem visual)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCS2007&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <p align="center">
   ⭐️ De <a href="https://github.com/MarcoCS2007">MarcoCS2007</a>

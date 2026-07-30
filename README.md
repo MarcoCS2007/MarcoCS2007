@@ -27,31 +27,7 @@
 ---
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=py" height="55" />
-    <img src="https://skillicons.dev/icons?i=html" height="55" />
-    <img src="https://skillicons.dev/icons?i=css" height="55" />
-    <img src="https://skillicons.dev/icons?i=js" height="55" />
-    <img src="https://skillicons.dev/icons?i=java" height="55" />
-    <img src="https://skillicons.dev/icons?i=docker" height="55" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="55" />
-    <img src="https://skillicons.dev/icons?i=django" height="55" />
-    <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
-    <img src="https://skillicons.dev/icons?i=git" height="55" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=py" height="55" />
-    <img src="https://skillicons.dev/icons?i=html" height="55" />
-    <img src="https://skillicons.dev/icons?i=css" height="55" />
-    <img src="https://skillicons.dev/icons?i=js" height="55" />
-    <img src="https://skillicons.dev/icons?i=java" height="55" />
-    <img src="https://skillicons.dev/icons?i=docker" height="55" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="55" />
-    <img src="https://skillicons.dev/icons?i=django" height="55" />
-    <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
-    <img src="https://skillicons.dev/icons?i=git" height="55" />
-  </marquee>
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Marco&slugs=python,html5,css3,javascript,openjdk,docker,postgresql,sqlite,django,fastapi,git" />
 </p>
 
 ---
@@ -65,6 +41,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoCS2007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎯 Troféus (opcional, bem visual)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCS2007&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---

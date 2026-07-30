@@ -18,20 +18,40 @@
 
 ---
 
-### 🐍 Cobrinha comendo meu histórico de contribuições
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarcoCS2007/MarcoCS2007/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
-> ⚠️ Essa imagem só aparece depois de configurar o workflow `snake.yml` (arquivo enviado junto). Veja o passo a passo abaixo.
+> ⚠️ Ativa o `snake.yml` (Actions → Run workflow) pra essa imagem aparecer.
 
 ---
 
-### 🛠️ Tecnologias que eu trabalho
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,docker,postgres,sqlite,django,fastapi,git&theme=dark" />
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=py" height="55" />
+    <img src="https://skillicons.dev/icons?i=html" height="55" />
+    <img src="https://skillicons.dev/icons?i=css" height="55" />
+    <img src="https://skillicons.dev/icons?i=js" height="55" />
+    <img src="https://skillicons.dev/icons?i=java" height="55" />
+    <img src="https://skillicons.dev/icons?i=docker" height="55" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="55" />
+    <img src="https://skillicons.dev/icons?i=django" height="55" />
+    <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
+    <img src="https://skillicons.dev/icons?i=git" height="55" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=py" height="55" />
+    <img src="https://skillicons.dev/icons?i=html" height="55" />
+    <img src="https://skillicons.dev/icons?i=css" height="55" />
+    <img src="https://skillicons.dev/icons?i=js" height="55" />
+    <img src="https://skillicons.dev/icons?i=java" height="55" />
+    <img src="https://skillicons.dev/icons?i=docker" height="55" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="55" />
+    <img src="https://skillicons.dev/icons?i=django" height="55" />
+    <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
+    <img src="https://skillicons.dev/icons?i=git" height="55" />
+  </marquee>
 </p>
 
 ---
@@ -45,14 +65,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoCS2007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🎯 Troféus (opcional, bem visual)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCS2007&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---

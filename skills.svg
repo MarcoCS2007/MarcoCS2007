@@ -1,0 +1,27 @@
+<svg viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <image href="https://skillicons.dev/icons?i=py" x="0" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=html" x="100" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=css" x="200" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=js" x="300" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=java" x="400" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=docker" x="500" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=postgres" x="600" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=sqlite" x="700" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=django" x="800" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=fastapi" x="900" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=git" x="1000" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=py" x="1100" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=html" x="1200" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=css" x="1300" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=js" x="1400" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=java" x="1500" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=docker" x="1600" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=postgres" x="1700" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=sqlite" x="1800" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=django" x="1900" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=fastapi" x="2000" y="15" width="60" height="60" />
+    <image href="https://skillicons.dev/icons?i=git" x="2100" y="15" width="60" height="60" />
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1100 0" dur="16s" repeatCount="indefinite" />
+  </g>
+</svg>

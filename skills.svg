@@ -1,27 +1,93 @@
-<svg viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 700 46" xmlns="http://www.w3.org/2000/svg">
   <g>
-    <image href="https://skillicons.dev/icons?i=py" x="0" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=html" x="100" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=css" x="200" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=js" x="300" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=java" x="400" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=docker" x="500" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=postgres" x="600" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=sqlite" x="700" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=django" x="800" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=fastapi" x="900" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=git" x="1000" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=py" x="1100" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=html" x="1200" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=css" x="1300" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=js" x="1400" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=java" x="1500" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=docker" x="1600" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=postgres" x="1700" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=sqlite" x="1800" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=django" x="1900" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=fastapi" x="2000" y="15" width="60" height="60" />
-    <image href="https://skillicons.dev/icons?i=git" x="2100" y="15" width="60" height="60" />
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1100 0" dur="16s" repeatCount="indefinite" />
+    <g>
+      <rect x="0" y="0" width="125" height="46" rx="23.0" fill="#3776AB" />
+      <text x="62.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Python</text>
+    </g>
+    <g>
+      <rect x="143" y="0" width="113" height="46" rx="23.0" fill="#E34F26" />
+      <text x="199.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">HTML5</text>
+    </g>
+    <g>
+      <rect x="274" y="0" width="102" height="46" rx="23.0" fill="#1572B6" />
+      <text x="325.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">CSS3</text>
+    </g>
+    <g>
+      <rect x="394" y="0" width="171" height="46" rx="23.0" fill="#F7DF1E" />
+      <text x="479.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#000000">JavaScript</text>
+    </g>
+    <g>
+      <rect x="583" y="0" width="102" height="46" rx="23.0" fill="#ED8B00" />
+      <text x="634.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Java</text>
+    </g>
+    <g>
+      <rect x="703" y="0" width="125" height="46" rx="23.0" fill="#2496ED" />
+      <text x="765.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Docker</text>
+    </g>
+    <g>
+      <rect x="846" y="0" width="171" height="46" rx="23.0" fill="#4169E1" />
+      <text x="931.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">PostgreSQL</text>
+    </g>
+    <g>
+      <rect x="1035" y="0" width="125" height="46" rx="23.0" fill="#003B57" />
+      <text x="1097.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">SQLite</text>
+    </g>
+    <g>
+      <rect x="1178" y="0" width="125" height="46" rx="23.0" fill="#092E20" />
+      <text x="1240.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Django</text>
+    </g>
+    <g>
+      <rect x="1321" y="0" width="136" height="46" rx="23.0" fill="#009688" />
+      <text x="1389.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">FastAPI</text>
+    </g>
+    <g>
+      <rect x="1475" y="0" width="90" height="46" rx="23.0" fill="#F05032" />
+      <text x="1520.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Git</text>
+    </g>
+    <g>
+      <rect x="1583" y="0" width="125" height="46" rx="23.0" fill="#3776AB" />
+      <text x="1645.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Python</text>
+    </g>
+    <g>
+      <rect x="1726" y="0" width="113" height="46" rx="23.0" fill="#E34F26" />
+      <text x="1782.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">HTML5</text>
+    </g>
+    <g>
+      <rect x="1857" y="0" width="102" height="46" rx="23.0" fill="#1572B6" />
+      <text x="1908.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">CSS3</text>
+    </g>
+    <g>
+      <rect x="1977" y="0" width="171" height="46" rx="23.0" fill="#F7DF1E" />
+      <text x="2062.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#000000">JavaScript</text>
+    </g>
+    <g>
+      <rect x="2166" y="0" width="102" height="46" rx="23.0" fill="#ED8B00" />
+      <text x="2217.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Java</text>
+    </g>
+    <g>
+      <rect x="2286" y="0" width="125" height="46" rx="23.0" fill="#2496ED" />
+      <text x="2348.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Docker</text>
+    </g>
+    <g>
+      <rect x="2429" y="0" width="171" height="46" rx="23.0" fill="#4169E1" />
+      <text x="2514.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">PostgreSQL</text>
+    </g>
+    <g>
+      <rect x="2618" y="0" width="125" height="46" rx="23.0" fill="#003B57" />
+      <text x="2680.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">SQLite</text>
+    </g>
+    <g>
+      <rect x="2761" y="0" width="125" height="46" rx="23.0" fill="#092E20" />
+      <text x="2823.5" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Django</text>
+    </g>
+    <g>
+      <rect x="2904" y="0" width="136" height="46" rx="23.0" fill="#009688" />
+      <text x="2972.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">FastAPI</text>
+    </g>
+    <g>
+      <rect x="3058" y="0" width="90" height="46" rx="23.0" fill="#F05032" />
+      <text x="3103.0" y="30.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">Git</text>
+    </g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1583 0" dur="18s" repeatCount="indefinite" />
   </g>
 </svg>

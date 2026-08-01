@@ -45,6 +45,13 @@
 
 ---
 
+### 🎯 Troféus (opcional, bem visual)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCS2007&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
 
 <p align="center">
   ⭐️ De <a href="https://github.com/MarcoCS2007">MarcoCS2007</a>

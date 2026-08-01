@@ -22,10 +22,25 @@
   <img src="https://raw.githubusercontent.com/MarcoCS2007/MarcoCS2007/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
+> ⚠️ Ativa o `snake.yml` (Actions → Run workflow) pra essa imagem aparecer.
+
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcoCS2007/MarcoCS2007/main/skills.svg" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="70" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" height="70" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" height="70" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="70" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="70" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -43,4 +58,14 @@
 
 ---
 
+### 🎯 Troféus (opcional, bem visual)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCS2007&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ De <a href="https://github.com/MarcoCS2007">MarcoCS2007</a>
+</p>

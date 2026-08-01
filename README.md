@@ -22,8 +22,6 @@
   <img src="https://raw.githubusercontent.com/MarcoCS2007/MarcoCS2007/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
-> ⚠️ Ativa o `snake.yml` (Actions → Run workflow) pra essa imagem aparecer.
-
 ---
 
 <p align="center">
@@ -54,14 +52,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoCS2007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🎯 Troféus (opcional, bem visual)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCS2007&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
